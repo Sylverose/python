@@ -1,0 +1,5 @@
+region,average_purchase
+Bornholm,1168617.0972615676
+Fyn & islands,1610287.4539075992
+Jutland,1631617.5868193924
+Zealand,2389679.5203573224
